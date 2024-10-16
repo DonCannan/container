@@ -1,0 +1,29 @@
+.one {
+    background-color: red;
+    float: left;
+    width: 50%;
+    height: 300px;  
+}
+.two {
+    background-color: yellow;
+    width: 50%;
+    float: right;
+    height: 300px;
+}
+.three {
+    background-color: green;
+    width: 50%;
+    float: left;
+    height: 300px;
+}
+.four {
+    background-color: pink;
+    width: 50%;
+    float: right;
+    height: 300px;
+
+}
+.my-header .image{
+    width: 2px;
+    height: 2px;
+}
